@@ -3,6 +3,7 @@ import numpy as np
 
 from skimage import io
 from skimage.transform import resize
+from tqdm import tqdm
 
 
 TRAIN_INPUT = Path("dataset/train")
@@ -13,7 +14,9 @@ TEST_OUTPUT = Path("dataset_resized/test_resized")
 
 
 def process_images(input_root: Path, output_root: Path, size=(256, 256)):
-    for image_path in input_root.rglob("*.png"):
+    image_paths = list(input_root.rglob("*.png"))
+
+    for image_path in tqdm(image_paths, desc=f"Processing {input_root.name}"):
 
         # Stessa struttura sottocartelle
         rel_path = image_path.relative_to(input_root)
@@ -30,14 +33,13 @@ def process_images(input_root: Path, output_root: Path, size=(256, 256)):
             anti_aliasing=True,
             preserve_range=True,
         )
+
         image_resized = np.rint(image_resized).astype(image.dtype)
 
-        
         io.imsave(output_path, image_resized)
 
 
-process_images(TRAIN_INPUT,TRAIN_OUTPUT,size=(256, 256))
-
-process_images(TEST_INPUT,TEST_OUTPUT,size=(256, 256))
+process_images(TRAIN_INPUT, TRAIN_OUTPUT, size=(256, 256))
+process_images(TEST_INPUT, TEST_OUTPUT, size=(256, 256))
 
 print("Resize completato.")
