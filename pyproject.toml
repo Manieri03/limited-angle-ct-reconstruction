@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "astra-toolbox>=2.5.0",
+    "inverse-problems-python",
     "matplotlib>=3.11.1",
     "numba>=0.67.0",
     "numpy>=2.4.6",
@@ -21,3 +22,6 @@ dependencies = [
 dev = [
     "ipykernel>=7.3.0",
 ]
+
+[tool.uv.sources]
+inverse-problems-python = { git = "https://github.com/devangelista2/IPPy.git" }
