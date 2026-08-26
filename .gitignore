@@ -1,1 +1,3 @@
 /dataset_resized
+__pycache__/
+*.pyc
