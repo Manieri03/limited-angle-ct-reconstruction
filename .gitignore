@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 /sinograms
 /reconstructions
+/test
+/tuning_results
