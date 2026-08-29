@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 /sinograms
-/reconstructions
+/tv_reconstructions
+/fbp
 /test
 /tuning_results
