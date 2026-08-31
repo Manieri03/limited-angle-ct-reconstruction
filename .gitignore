@@ -7,3 +7,4 @@ __pycache__/
 /test
 /tuning_results
 /unet_reconstructions
+/weighted_tv_reconstructions_tuned
