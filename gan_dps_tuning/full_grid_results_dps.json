@@ -1,0 +1,514 @@
+{
+  "90": [
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.319510215749506,
+      "ssim": 0.33165763556288325
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.318000342203245,
+      "ssim": 0.33163940700039674
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.43616861508831,
+      "ssim": 0.3274332056981363
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.128898298479527,
+      "ssim": 0.3147799248747359
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.533786563990978,
+      "ssim": 0.2261963986588522
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.555273700532359,
+      "ssim": 0.22623053185890926
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.319046549295948,
+      "ssim": 0.3316850538880414
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.31701327487884,
+      "ssim": 0.33164894267769773
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.43587347749678,
+      "ssim": 0.3274326366077623
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.025005390808545,
+      "ssim": 0.3133484354007727
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.486571229419793,
+      "ssim": 0.22450319306966082
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.603393979362664,
+      "ssim": 0.22687584186495355
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.320430548347023,
+      "ssim": 0.33167119625476055
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.317094898038075,
+      "ssim": 0.3316549920174256
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.435999403186653,
+      "ssim": 0.32738371971443936
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.13942156045541,
+      "ssim": 0.3151693119647368
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.509549404566833,
+      "ssim": 0.22499190765826252
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.56184677882518,
+      "ssim": 0.22578186260201272
+    }
+  ],
+  "45": [
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.329691833138277,
+      "ssim": 0.3317719165125055
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.327917507366305,
+      "ssim": 0.33175184023125665
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.441250377614924,
+      "ssim": 0.32766796380685487
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.102127409321536,
+      "ssim": 0.3151598039333628
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.52418435736626,
+      "ssim": 0.22641455750348224
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.483601997277455,
+      "ssim": 0.22526468805595
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.329127213862424,
+      "ssim": 0.3317342512097231
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.314834108721396,
+      "ssim": 0.3318433648067053
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.439210843180977,
+      "ssim": 0.32750958448507744
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.190248018992367,
+      "ssim": 0.3159569123324757
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.578915094083456,
+      "ssim": 0.22675852556773077
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.580031989426018,
+      "ssim": 0.22619640925951448
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 17.31822253721016,
+      "ssim": 0.33186275045189967
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 17.31409115171454,
+      "ssim": 0.33182682496956617
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 17.440877490562546,
+      "ssim": 0.327602347721436
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 17.097616434260292,
+      "ssim": 0.3148126182841643
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.586728993634134,
+      "ssim": 0.22670932979166777
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.606039818424264,
+      "ssim": 0.2266629310313929
+    }
+  ],
+  "30": [
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.392404164302423,
+      "ssim": 0.30613989437519945
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.398707570436425,
+      "ssim": 0.30628471074267244
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.881400800632024,
+      "ssim": 0.2859861857182922
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 15.930534780356554,
+      "ssim": 0.2869225693753662
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.35483528531949,
+      "ssim": 0.22308374963650243
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.339654180839254,
+      "ssim": 0.2235357818284869
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.389182338872377,
+      "ssim": 0.306019256030069
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.40951565075224,
+      "ssim": 0.3065106002602408
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.879176638162425,
+      "ssim": 0.28579487940276005
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 16.054266859741244,
+      "ssim": 0.2883318090859334
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.379493307092025,
+      "ssim": 0.22290456157052105
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.397841182728802,
+      "ssim": 0.2238442446769645
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.387651015377244,
+      "ssim": 0.3060336376161191
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.39831798537428,
+      "ssim": 0.3062442427397036
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.874625898381325,
+      "ssim": 0.28563956702985654
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 15.994724427024517,
+      "ssim": 0.2873197431075431
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.387476983928016,
+      "ssim": 0.2232280056292135
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.393616874007039,
+      "ssim": 0.2236714902733585
+    }
+  ],
+  "15": [
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.37642615387625,
+      "ssim": 0.30563567225110305
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.377042193207227,
+      "ssim": 0.3054813473247562
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.807601171342924,
+      "ssim": 0.28459795717365916
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 15.986666133958144,
+      "ssim": 0.28783126092084377
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.330049929741818,
+      "ssim": 0.22254273971899843
+    },
+    {
+      "data_weight": 0.01,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.34327854348072,
+      "ssim": 0.22473939391569264
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.377304306681363,
+      "ssim": 0.30568587984567513
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.38049418232491,
+      "ssim": 0.30561686120371767
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.872577243655337,
+      "ssim": 0.2855957054303809
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 16.065354995415902,
+      "ssim": 0.288489646504786
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.374149690168219,
+      "ssim": 0.2231705800555026
+    },
+    {
+      "data_weight": 0.1,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.34757892215272,
+      "ssim": 0.22284989977847156
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.0,
+      "psnr": 16.377119396397074,
+      "ssim": 0.3056621434256289
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.001,
+      "noise_scale": 0.02,
+      "psnr": 16.378170058979624,
+      "ssim": 0.30560638687570724
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.0,
+      "psnr": 15.80258525785029,
+      "ssim": 0.28418141974752353
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.01,
+      "noise_scale": 0.02,
+      "psnr": 15.973112795525958,
+      "ssim": 0.28715288877382394
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.0,
+      "psnr": 15.388752544944026,
+      "ssim": 0.22341365025848545
+    },
+    {
+      "data_weight": 1.0,
+      "step_size": 0.1,
+      "noise_scale": 0.02,
+      "psnr": 15.354795773692826,
+      "ssim": 0.22273767258132202
+    }
+  ]
+}
